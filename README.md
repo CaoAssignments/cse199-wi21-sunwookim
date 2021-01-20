@@ -18,4 +18,6 @@ Key concepts:
 
 Key concepts:
 
-* B
+* Processing strings
+* Comparing values
+* Using two-dimensional arrays
