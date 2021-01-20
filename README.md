@@ -4,7 +4,6 @@
 
 Key concepts:
 
-* Reading file input
 * Optimizing values
 * Using `min` and `max` functions to determine conditional values
 
@@ -12,7 +11,8 @@ Key concepts:
 
 Key concepts:
 
-* A
+* Reversing calculations
+* Using arrays and indices
 
 ### Milk Measurement
 
